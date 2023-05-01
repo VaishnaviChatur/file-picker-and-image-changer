@@ -1,0 +1,26 @@
+    .btn {
+        color: white;
+        background-color: lightseagreen;
+        height: 50px;
+        width: 150px;
+        border-width: 10px;
+        margin-top: 50px;
+    }
+    
+    .chg {
+        background-color: darkcyan;
+        width: 500px;
+        border-width: 10px black;
+        margin-top: 100px;
+        margin-left: 500px;
+        height: 500px;
+    }
+    
+    .ig {
+        margin-top: 100px;
+        border: 5px solid black;
+    }
+    
+    .file {
+        border: 2px solid black;
+    }
